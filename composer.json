@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "Commercial",
     "homepage": "",
-    "description": "EU Cookie Alert module",
+    "description": "EU Cookie Compliance is an extension which will present the user with the new Cookie notification banner. ",
     "authors": [
     {
         "name": "Arron Moss",
