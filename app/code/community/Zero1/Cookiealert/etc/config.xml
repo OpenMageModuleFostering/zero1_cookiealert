@@ -44,16 +44,6 @@
 				</cookiealert>
 			</updates>
 		</layout>
-		
-		<translate>
-            <modules>
-                <Zero1_Cookiealert>
-                    <files>
-                        <default>Zero1_Cookiealert.csv</default>
-                    </files>
-                </Zero1_Cookiealert>
-            </modules>
-        </translate>		
 	</frontend>
 	
 	<default>
