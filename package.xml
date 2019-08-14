@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package>
     <name>Zero1_Cookiealert</name>
-    <version>1.0.5</version>
+    <version>1.0.6</version>
     <stability>stable</stability>
     <license>Commercial</license>
     <channel>community</channel>
     <extends/>
     <summary>EU Cookie Alert module</summary>
     <description>EU Cookie Alert module</description>
-    <notes>Added Italian translations</notes>
+    <notes>Resolved missing assets.</notes>
     <authors><author><name>Arron Moss</name><user>zero1limited</user><email>arron.moss@zero1.co.uk</email></author></authors>
-    <date>2014-04-17</date>
-    <time>15:47:11</time>
-    <contents><target name="magecommunity"><dir name="Zero1"><dir name="Cookiealert"><dir name="Block"><file name="Cookiealert.php" hash="edcbd90a12d4907c751f610fb987425c"/></dir><dir name="Helper"><file name="Data.php" hash="59f4cb7c7f7cd5285a3db55153eff583"/></dir><dir name="Model"><file name="Cookiealert.php" hash="116acbd3add322d389e95316420c56d4"/></dir><dir name="controllers"><file name="IndexController.php" hash="02d15b278a410e1c73df8a38bf62bb92"/></dir><dir name="etc"><file name="adminhtml.xml" hash="3f063b5e621c2c314b17496df733ae96"/><file name="config.xml" hash="e3ff961487cfdeeb8bbb28664733427a"/><file name="system.xml" hash="f429aaf2dddaf9506ba365398bf3ba49"/></dir><file name=".DS_Store" hash="1dcf4d325e6c5f915f06d957fe08104b"/></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Zero1_Cookiealert.xml" hash="36f0e58b1db5291f4dd7c6f8d5a54ca3"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="cookiealert.xml" hash="42c1ad60c4c6488abdd1e2ab8ebf6263"/></dir></dir></dir></dir></target><target name="magelocale"><dir name="it_IT"><file name="Zero1_Cookiealert.csv" hash="887f8b7eca053d6ab04736290de7620f"/></dir></target></contents>
+    <date>2014-04-25</date>
+    <time>08:18:03</time>
+    <contents><target name="magecommunity"><dir name="Zero1"><dir name="Cookiealert"><dir name="Block"><file name="Cookiealert.php" hash="edcbd90a12d4907c751f610fb987425c"/></dir><dir name="Helper"><file name="Data.php" hash="59f4cb7c7f7cd5285a3db55153eff583"/></dir><dir name="Model"><file name="Cookiealert.php" hash="116acbd3add322d389e95316420c56d4"/></dir><dir name="controllers"><file name="IndexController.php" hash="02d15b278a410e1c73df8a38bf62bb92"/></dir><dir name="etc"><file name="adminhtml.xml" hash="3f063b5e621c2c314b17496df733ae96"/><file name="config.xml" hash="e3ff961487cfdeeb8bbb28664733427a"/><file name="system.xml" hash="f429aaf2dddaf9506ba365398bf3ba49"/></dir><file name=".DS_Store" hash="1dcf4d325e6c5f915f06d957fe08104b"/></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Zero1_Cookiealert.xml" hash="36f0e58b1db5291f4dd7c6f8d5a54ca3"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="cookiealert.xml" hash="42c1ad60c4c6488abdd1e2ab8ebf6263"/></dir><dir name="template"><dir name="cookiealert"><file name="cookiealert.phtml" hash="b796ba2037eca2560deac6ac977cb593"/></dir></dir></dir></dir></dir></target><target name="magelocale"><dir name="it_IT"><file name="Zero1_Cookiealert.csv" hash="887f8b7eca053d6ab04736290de7620f"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
