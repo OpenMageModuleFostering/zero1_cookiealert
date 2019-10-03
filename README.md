@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 EU Cookie Compliance is an extension which will present the user with the new Cookie notification banner. 
